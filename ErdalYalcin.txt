@@ -1,0 +1,9 @@
+Ad Soyad: Erdal Yalçın
+Okul/Bölüm/Meslek: Mersin Üniversitesi Bilgisayar Mühendisliği
+Yaşadığı il/ilçe: Adana/Seyhan
+Swift tecrübe: 3 ay
+Bildiği Yazılım Dilleri: C,Java,Python,Swift,Html/Css,SQL... 
+instagram: erdalyalcin
+email: erdallyalcin@gmail.com
+
+
